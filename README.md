@@ -20,16 +20,15 @@ CS4WW3 Project
 - IP of the site: 3.214.73.110
 - Domain Name: akfoodie.com
 
-Working Paths:
+3. Working Paths:
+- Part 1: Client-Side, Static
+    In this part of the project, we were asked to design and partially implement a website using HTML and CSS that allows users to browse and contribute reviews of geographically based object.
 
-Part 1: Client-Side, Static
-In this part of the project, we were asked to design and partially implement a website using HTML and CSS that allows users to browse and contribute reviews of geographically based object.
+- Part 2: Client-Side, Dynamic
+    This part of the project required we to use JavaScript to add dynamic aspects to the client side of the site, focusing on form validation and maps.
 
-Part 2: Client-Side, Dynamic
-This part of the project required we to use JavaScript to add dynamic aspects to the client side of the site, focusing on form validation and maps.
-
-Part 3: Server-Side
-Using PHP and MySQL to implement the full dynamic server-side functionality of our website and deploy it on your virtual machine.
+- Part 3: Server-Side
+    Using PHP and MySQL to implement the full dynamic server-side functionality of our website and deploy it on your virtual machine.
 
 This is what the website look like:
 ![](AKFoodie.png)
