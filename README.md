@@ -21,6 +21,7 @@ CS4WW3 Project
 - Domain Name: akfoodie.com
 
 Working Paths:
+
 Part 1: Client-Side, Static
 In this part of the project, we were asked to design and partially implement a website using HTML and CSS that allows users to browse and contribute reviews of geographically based object.
 
